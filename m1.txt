@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-This is change at Github
-=======
-This is change at Github
->>>>>>> 49f1924ce0d5b25ae57cc5de2eb0116135bebf9c
